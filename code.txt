@@ -1,0 +1,16 @@
+##<VirtualHost *:80>
+    ##ServerAdmin webmaster@try23.local
+    ##DocumentRoot "C:/xampp/htdocs/first_ang/"
+    ##ServerName www.try23.local
+    ##ServerAlias www.try.local
+    ##ErrorLog "logs/dummy-host.example.com-error.log"
+    ##CustomLog "logs/dummy-host.example.com-access.log" common
+##</VirtualHost>
+
+
+#127.0.0.1       localhost
+#127.0.0.1       try23.local 
+
+C:\Windows\System32\drivers\etc
+
+
